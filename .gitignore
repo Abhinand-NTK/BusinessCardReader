@@ -1,0 +1,15 @@
+# Python/Django
+/Backend/__pycache__/
+/Backend/*.pyc
+/Backend/db.sqlite3
+/Backend/venv/
+/Backend/env
+
+# Node.js
+/frontend/node_modules/
+/frontend/build/
+/frontend/.idea
+
+# OS generated files
+.DS_Store
+Thumbs.db
