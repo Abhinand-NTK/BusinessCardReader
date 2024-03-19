@@ -4,6 +4,7 @@
 /Backend/db.sqlite3
 /Backend/venv/
 /Backend/env
+/Backend/visiting_cards
 
 # Node.js
 /frontend/node_modules/
